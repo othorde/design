@@ -6,7 +6,7 @@ Description: Part 1
 Kursmoment 1
 ==================
 
-
+---
 Har du jobbat med ramverk eller andra CMS:er tidigare?
 <br><br>
 
@@ -41,3 +41,5 @@ Jag trodde jag hade sparat allt i github som det skulle sparas, jag fibbla till 
 <br><br>
 
 Hoppas att detta inte ställde till det med rättningen, jag skickade in allt förra veckan men det försvann ju nu orättat. Som tur var gick det snabbt att göra om detta kmom (hoppas att jagi nte missade något.)
+
+---
