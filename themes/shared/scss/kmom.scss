@@ -1,0 +1,43 @@
+
+.barofsides {
+    display: grid;
+    gap: 2em 2em; // ett em överallt upp o ner. Totalt, grid känner av det.
+    padding: 0 2em; // padding 0 uppe nere och vänster höger 1 em
+}
+
+
+.sidebar {
+
+    grid-column: span 4;
+    grid-row: span 4;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    padding: 2em;
+    margin: 2em;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(19, 17, 17);
+    font-size: 1.5em;
+}
+
+.ulkmom {
+    list-style-type: none;
+}
+
+
+.kmom {
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 1;
+}
+
+
+@media (max-width: 737px) {
+    .sidebar {
+        display: none; //tar bort sidebar vid mobilmeny
+    }
+}

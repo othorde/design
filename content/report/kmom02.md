@@ -1,6 +1,7 @@
 ---
-Title: Kmom02
-Description: Part 1
+Title: Kmom 02
+Description: Part 2
+Template: kmom
 ---
 
 Kursmoment 2

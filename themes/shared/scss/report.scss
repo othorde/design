@@ -1,0 +1,55 @@
+
+.landingpage {
+    display: grid;
+    gap: 2em 2em; // ett em överallt upp o ner. Totalt, grid känner av det.
+    padding: 0 2em; // padding 0 uppe nere och vänster höger 1 em
+}
+
+
+.landingpage h1 {
+    grid-column: span 3; // antal kolumner
+    justify-self: center;
+    font-size: 1.8em;
+}
+
+.kmom-box {
+    grid-column: span 1; // ingen visuell skillnad. för att vara tydlig
+    border-radius: 8px;
+    border: 2px solid rgb(19, 18, 18);
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    align-items: center; // align används vid column, justify content vid row?
+    padding: 2em;
+    padding-top: 0;
+    position: relative;
+    min-height: 15em;
+}
+
+.kmom-box.project {
+    grid-column: span 3;
+    justify-self: center;
+    width: 100%;
+    position: relative;
+
+}
+
+h2 {
+    border-radius: 8px;
+    border-bottom: 2px solid rgb(92, 85, 85);
+    background-color: rgb(92, 85, 85);
+    box-sizing: border-box;
+    width: 100%;
+    height: 4em;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: rgb(248, 245, 245);
+}
+
+@media (max-width: 767px) {
+    .landingpage h1,
+    .kmom-box,
+    .kmom-box.project {
+        grid-column: span 1;
+    }
+}

@@ -6615,6 +6615,96 @@ body {
     vertical-align: middle;
   }
 }
+.landingpage {
+  display: grid;
+  gap: 2em 2em;
+  padding: 0 2em;
+}
+
+.landingpage h1 {
+  grid-column: span 3;
+  justify-self: center;
+  font-size: 1.8em;
+}
+
+.kmom-box {
+  grid-column: span 1;
+  border-radius: 8px;
+  border: 2px solid #131212;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+  padding-top: 0;
+  position: relative;
+  min-height: 15em;
+}
+
+.kmom-box.project {
+  grid-column: span 3;
+  justify-self: center;
+  width: 100%;
+  position: relative;
+}
+
+h2 {
+  border-radius: 8px;
+  border-bottom: 2px solid #5c5555;
+  background-color: #5c5555;
+  box-sizing: border-box;
+  width: 100%;
+  height: 4em;
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #f8f5f5;
+}
+
+@media (max-width: 767px) {
+  .landingpage h1,
+.kmom-box,
+.kmom-box.project {
+    grid-column: span 1;
+  }
+}
+.barofsides {
+  display: grid;
+  gap: 2em 2em;
+  padding: 0 2em;
+}
+
+.sidebar {
+  grid-column: span 4;
+  grid-row: span 4;
+  grid-column-start: 1;
+  grid-row-start: 1;
+  padding: 2em;
+  margin: 2em;
+}
+
+a {
+  text-decoration: none;
+  color: #131111;
+  font-size: 1.5em;
+}
+
+.ulkmom {
+  list-style-type: none;
+}
+
+.kmom {
+  display: flex;
+  flex-direction: column;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 1;
+}
+
+@media (max-width: 737px) {
+  .sidebar {
+    display: none;
+  }
+}
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
