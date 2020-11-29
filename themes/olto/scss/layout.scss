@@ -1,0 +1,157 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: $background-color;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+
+.site-header {
+    flex: 0 0 auto;
+    background-color: $base-color-header;
+    color: $font-color;
+    padding: 0 2em;
+}
+
+.site-header a,
+.site-header a:visited {
+    color: $font-color;
+}
+
+.flash-img {
+    margin-top: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 40em;
+    filter: ($img-color);
+}
+
+
+.grids {
+    margin: 2em;
+    display: grid;
+    gap: 2em 2em; // ett em överallt upp o ner. Totalt, grid känner av det.
+    padding: 0 2em; // padding 0 uppe nere och vänster höger 1 em
+    grid-template-columns: 40px 50px auto 50px 40px;
+    grid-template-rows: 25% 100px auto;
+    grid-column: span 34;
+    grid-row: span 4;
+    color: $text-color-main;
+}
+
+
+/* Main */
+
+
+.container .h1 {
+
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 1;
+
+
+}
+
+.container {
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+}
+
+.first {
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 1;
+    grid-column-end: 1;
+    grid-row-start: 5;
+    grid-row-end: 1;
+    background-color: $second-element-color;
+    width: 130%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.second {
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 5;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 5;
+    background-color: $second-element-color;
+    width: 130%;
+    height: 100%;
+    border-radius: 25px;
+    
+}
+
+.third {
+    display: flex; // ist för default display block
+    flex-direction: column; // direction 
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    background-color: $third-element-color;
+    width: 100%;
+    height: 40%;
+    border-radius: 25px;
+}
+
+
+/* Footer */
+
+.site-footer {
+    overflow: auto;
+    margin-top: 5em;
+    background: $base-color-footer;
+    padding: 2em;
+    height: 15%;
+}
+
+.site-footer a {
+    color: $font-color;
+}
+
+.container {
+
+    text-align: center;
+}

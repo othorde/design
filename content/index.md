@@ -7,6 +7,5 @@ Home page
 ==========================
 
 
-Hej! 
 
-Välkommen till min sida i kursen Design på BTH
+Hej Välkommen till min sida i kursen Design på BTH!

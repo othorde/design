@@ -1,4 +1,14 @@
 
+h1 {
+    color: $font-color;
+
+}
+
+h3 {
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+
 .barofsides {
     display: grid;
     gap: 2em 2em; // ett em överallt upp o ner. Totalt, grid känner av det.
@@ -33,6 +43,7 @@ a {
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 1;
+    max-width: 40em;
 }
 
 

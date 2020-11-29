@@ -5,8 +5,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass olto/scss/style.scss olto/css/style.css --no-source-map",
-    "style-min": "sass olto/scss/style.scss olto/css/style.min.css --no-source-map --style compressed",
+    "style": "npm run style-light && npm run dark-style",
+    "style-min": "npm run style-light-min && npm run dark-style-min",
+
+    "style-light": "sass olto/scss/style.scss olto/css/style.css --no-source-map",
+    "style-light-min": "sass olto/scss/style.scss olto/css/style.min.css --no-source-map --style compressed",
+    
+    "dark-style": "sass olto/scss/dark-style.scss olto/css/dark-style.css --no-source-map",
+    "dark-style-min": "sass olto/scss/dark-style.scss olto/css/dark-style.min.css --no-source-map --style compressed",
+
     "watch": "sass olto/scss/style.scss olto/css/style.css --no-source-map --watch",
     "watch-min": "sass olto/scss/style.scss olto/css/style.min.css --no-source-map --style compressed --watch"
   },
