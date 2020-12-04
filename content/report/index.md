@@ -22,32 +22,32 @@ Redovisning Design
 
 <div class = "kmom-box">
     <br>
-    <a href = "report/kmom01" ><h2> Kmom03 </h2> </a>
+    <a href = "report/kmom03" ><h2> Kmom03 </h2> </a>
 
 
 </div>
 
 <div class = "kmom-box">
     <br>
-    <a href = "report/kmom01" ><h2> Kmom04 </h2> </a>
+    <a href = "report/kmom04" ><h2> Kmom04 </h2> </a>
 
 </div>
 
 <div class = "kmom-box">
     <br>
-    <a href = "report/kmom01" ><h2> Kmom05 </h2> </a>
+    <a href = "report/kmom05" ><h2> Kmom05 </h2> </a>
 
 
 </div>
 
 <div class = "kmom-box">
     <br>
-    <a href = "report/kmom01" ><h2> Kmom06 </h2> </a>
+    <a href = "report/kmom06" ><h2> Kmom06 </h2> </a>
 
 </div>
 
 <div class = "kmom-box project">
     <br>
-    <a href = "report/kmom01" ><h2> Kmom10 </h2> </a>
+    <a href = "report/kmom010" ><h2> Kmom10 </h2> </a>
 
 </div>
