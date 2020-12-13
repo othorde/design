@@ -122,7 +122,7 @@ En stor del av facebook är vit eller nyanser av vitt och grått. <br> Blått an
 Analys
 =======================
 
-### IKEA
+#### IKEA
 <br>
 Ikea använder sig utav de första två gröna färgerna tillsammans med "Gör black friday grönare". <br> Den gröna färgen används som bekant för att visa på miljömedvetenhet och det är sannolikt det som de vill förmedla med denna bild och dess färger.<br><br>
 
@@ -134,7 +134,7 @@ Färgerna på de tre bilder längst ner är triadfärger/komplementfärgpar. Gem
 
 <br><br>
 
-### Webbdesignfabriken
+#### Webbdesignfabriken
 <br>
 Webbdesignfabriken använder sig utav 3 nyanser av vitt. Genom att ha dessa tre färgerna bredvid varandra eller i närheten kan man se skillnaden men ensamma är det svårare att säga att en är vitare än den andra. Detta gör Ikea antagligen för att skapa ett djup på webbplatsen.<br> Man skulle kunna kalla dem för triadfärger. De är ungefär lika långt ifrån varandra på färghjulet. <br><br> Detsamma gäller för de gråa samt grå/blåa färgerna. De är väldigt lika men kan särskiljas om de används nära varandra. De är olika nyanser alternativt analoga. <br><br> Webbdesignfabriken använder också orange som signalfärg. Färgen leder läsaren vidare, oftast till början på nya stycken men också för att utmärka viktiga saker på hemsidan, så som prenumerera på nyhetsbrev, (25 % rabatt pga 10års jubileum, syns dock ej på bild). 
 <br><br>Att sätta en orange färg i början av ett nytt stycke leder läsaren vidare i flödet och kan göra läsningen enklare för användaren. Den hjälper också läsaren att hitta det som är viktigt på hemsidan. <br>
@@ -144,7 +144,7 @@ Den oranga färgen verkar annars inte ha något syfte mer än att vara signalfä
 
 <br><br>
 
-### Facebook
+#### Facebook
 <br><br>
 På Facebook används grönt endast en gång vad jag kan se. Det är för att "skapa konto". Den används som en signalfärg för att ta användaren dit direkt så att de kan skapa konto. Facebook använder sparsamt med färger på hela hemsidan och den blå färgen är det som avgränsar de saker som är viktiga, till exempel logga in eller olika flikar. Den röda färgen används med stor sannolikhet som en signalfärg för att användaren snabbt ska se att något nytt har hänt och att man ska kolla sina notiser. 
 <br><br>
@@ -153,7 +153,7 @@ Facebook flödet består, iallafall för mig, av mycket bilder, videos och rekla
 De färger som inte är svart, vitt, grått används lite, vilket kan innebära att det inte finns samma behov att matcha färgerna genom triad, komplement eller liknande. Den gråa och vita färgen bär upp hemsidan och med hjälp av färgerna från bilder, videos, och inget mer verkar behövas. Mer färg hade kanske endast gjort det sämre. 
 
 
-### Övrigt
+#### Övrigt
 
 Jag tror att alla tre hemsidorna har gjort ytterst medvetna val och det mesta är säkert utformat till minsta detalj. 
 Jag tycker att resultaten har gjort mig mer medveten om hur företag planerar sina hemsidor och hur de skapar intryck, hjälper läsaren vidare i text, får användaren att uppmärksamma notiser och enklare att navigera på hemsidan. Detta används självklart till företagens egna nytta, som kan innefatta att få fler medlemmar, att besökare köper mer eller att besökare stannar på hemsidan längre genom exempelvis använda signalfärger, bra erbjudande och nya notiser. Jag tar också med mig det stora användandet av den vita färgen som jag inte tänkt på på samma sätt tidigare. Olika nyanser av den vita färgen kan användas till mycket utan att det blir "för mycket".
