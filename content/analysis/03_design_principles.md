@@ -1,5 +1,5 @@
 ---
-Title: Design principels
+Title: Design principles
 Description: Part 3
 Template: academic-report
 ---

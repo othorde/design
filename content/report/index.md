@@ -48,6 +48,6 @@ Redovisning Design
 
 <div class = "kmom-box project">
     <br>
-    <a href = "report/kmom010" ><h2> Kmom10 </h2> </a>
+    <a href = "report/kmom10" ><h2> Kmom10 </h2> </a>
 
 </div>
